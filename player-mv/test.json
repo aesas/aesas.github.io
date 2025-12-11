@@ -1,6 +1,36 @@
 [
   {
     "categoria": "El 13",
+    "titulo": "Cooperativa TV",
+    "bajada": "Señal de televisión de la Radio Cooperativa.",
+    "color_principal": "#fa6428",
+    "epg": "",
+    "id": "coopetv",
+    "imagen": "https://s.13.cl/sites/default/files/13go/field-imagen/13_0.jpg",
+    "link": "",
+    "logo_blanco": "https://programas.cooperativa.cl/imagenes/logos/cooperativa.svg",
+    "logo_invertido": "https://programas.cooperativa.cl/imagenes/logos/cooperativa.svg",
+    "id_mango": "",
+    "restriction": "0",
+    "assetkey": ""
+  },
+  {
+    "categoria": "El 13",
+    "titulo": "13Live",
+    "bajada": "Señal Interna C13",
+    "color_principal": "#fa6428",
+    "epg": "",
+    "id": "13live",
+    "imagen": "https://s.13.cl/sites/default/files/13go/field-imagen/13_0.jpg",
+    "link": "",
+    "logo_blanco": "https://s.13.cl/sites/default/files/13go/logo/13-invertido.svg",
+    "logo_invertido": "https://s.13.cl/sites/default/files/13go/logo/logo-2025_1.png",
+    "id_mango": "",
+    "restriction": "0",
+    "assetkey": ""
+  },
+  {
+    "categoria": "El 13",
     "titulo": "El 13",
     "bajada": "Entretención, información, cultura y mucho más. Disfruta de toda la programación de Canal 13 a través de su señal en vivo, las 24 horas del día, donde quieras, cuando quieras.",
     "color_principal": "#fa6428",
